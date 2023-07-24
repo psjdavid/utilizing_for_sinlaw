@@ -87,3 +87,6 @@ they are same
 \>>>
 
 For these proof and coding, we find this 'formula' works! I hope you utilize this concept in useful ways!
+
+
+by. psjdavid
